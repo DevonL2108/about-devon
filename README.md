@@ -1,1 +1,1 @@
-Devon Lum | devonl2108@hstat.org
+Devon Lum | devonl2108@hstat.org | HSTAT
