@@ -1,18 +1,18 @@
-# About Me
+# About Me  
 
-### Name:
+### Name:    
 Devon Lum
 
-### Email:
+### Email: 
 _devonl2108@hstat.org_
 
-### School:
+### School: 
 [**HSTAT**](http://www.hstat.org/)
 
-### Bio:
-I am a junior who is currently attending the Highschool of Telecommunication Arts and Technology and taking the Software Engineering Program.
+### Bio: 
+I am a junior who is currently attending the Highschool of Telecommunication Arts and Technology and taking the Software Engineering Program.  
 
-### Schedule:
+### Schedule: 
 1. English
 2. Spanish
 3. SEP
@@ -26,11 +26,11 @@ I am a junior who is currently attending the Highschool of Telecommunication Art
   * Git
   * IDE
   * Markdown Syntax
-* Basic Web Design
+* Basic Web Design 
   * HTML
   * CSS
-* Advanced Web Design
-* Freedom Project
+* Advanced Web Design 
+* Freedom Project 
   * Sleep
     * Researching Topic
     * Gathering Information
@@ -38,7 +38,3 @@ I am a junior who is currently attending the Highschool of Telecommunication Art
     * Researching Tools
     * Prepping Website
     * Creating Website
-
-
-
-# **I like Lydia.**
